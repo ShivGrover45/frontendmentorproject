@@ -101,7 +101,7 @@ html{
                 background-color:#A9B42D;
                 transform:scale(1.02)
               }
- @media (max-width:1500px){
+ @media (max-width:650px){
                 #bottom-left-section,#bottom-right-section{
                     width:100%;
                 }
