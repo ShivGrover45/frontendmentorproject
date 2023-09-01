@@ -101,3 +101,13 @@ html{
                 background-color:#A9B42D;
                 transform:scale(1.02)
               }
+ @media (max-width:1500px){
+                #bottom-left-section,#bottom-right-section{
+                    width:100%;
+                }
+                #card{
+                    height: auto;
+                    width:100%;
+                }
+              }
+
